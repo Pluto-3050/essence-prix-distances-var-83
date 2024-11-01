@@ -1,5 +1,6 @@
 # Visualisation des Prix de l'Essence et Distances des Stations dans le Var (83)
 ![image](https://github.com/user-attachments/assets/1f42f172-f84d-40b2-9c1d-06c0462984d5)
+lien : [Visualisation des Prix de l'Essence et Distances des Stations dans le Var (83)](https://lookerstudio.google.com/reporting/50dbca1b-bc75-47e3-9b2a-81f24a34586d/page/7u2FE).
 
 ## Description
 Je vous présente un dashboard interactif développé avec Looker Studio et connecté à une base de données BigQuery. Ce tableau de bord permet de visualiser les prix du carburant SP95 et la distance des stations par rapport à une position fixe dans le département 83 (Var).
